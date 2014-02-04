@@ -11,10 +11,10 @@ New York State Senate
 
 Hacks/Hackers ROC
 -----
-http://mcsafetyfeed.org
-NYS Violent and Disruptive Incidents Report (VADIR)
-Onondaga County Violent Crimes Listing
-EPA UV Index Predictions 2013 (Partial)
-Federal Budget Data
-COMIDA Meeting Minutes
-http://monroeminutes.org
+ - http://mcsafetyfeed.org
+ - NYS Violent and Disruptive Incidents Report (VADIR)
+ - Onondaga County Violent Crimes Listing
+ - EPA UV Index Predictions 2013 (Partial)
+ - Federal Budget Data
+ - COMIDA Meeting Minutes
+ - http://monroeminutes.org
