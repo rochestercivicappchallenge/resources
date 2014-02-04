@@ -1,13 +1,23 @@
 The Sunlight Foundation
 ------------------
  - <a href="http://docs.opencivicdata.org/en/latest/api/index.html">Open Civic Data API</a>
+ - Many more at http://sunlightfoundation.com/api/
 
- - Many more tools and datasets can be found at http://sunlightfoundation.com/api/
+Federal
+-------
+ - http://data.gov
 
-New York State Senate
----------------------
+New York State
+--------------
  - <a href="http://openlegislation.readthedocs.org/en/latest/index.html">Open Legislation API</a>
+ - http://seethroughny.com
+ - http://elections.state.ny.us
+ - http://sunlightny.com
 
+City of Rochester
+-----
+ - http://www.cityofrochester.gov/neighborhooddatamap/
+ - http://www.actrochester.org/
 
 Hacks/Hackers ROC
 -----
