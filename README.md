@@ -1,6 +1,6 @@
 The Sunlight Foundation
 ------------------
- - <a href="http://docs.opencivicdata.org/en/latest/api/index.html">Open Civic Data API</a> by Sunlight Foundation
+ - <a href="http://docs.opencivicdata.org/en/latest/api/index.html">Open Civic Data API</a>
 
  - Many more tools and datasets can be found at http://sunlightfoundation.com/api/
 
