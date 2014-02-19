@@ -25,7 +25,7 @@ City of Rochester
 
 Onondaga County
 -----
-  - [Onondaga County 911 Feed][(http://911csi.ongov.net/CADInet/app/events.jsp)
+  - [Onondaga County 911 Feed](http://911csi.ongov.net/CADInet/app/events.jsp)
 
 Hacks/Hackers ROC
 -----
@@ -48,7 +48,7 @@ Hacks/Hackers ROC
      - http://comida.mycodespace.net/search.json?phrase=moore
  - http://monroeminutes.org
    - [Source Code](https://github.com/thequbit/monroeminutes)
- - (Various Helpful NY State Geo Files](https://github.com/hhroc/nysgeofiles)
+ - [Various Helpful NY State Geo Files](https://github.com/hhroc/nysgeofiles)
  - [Traffairious](http://traffairious-facts.rhcloud.com/)
    - [Source Code and Data](https://github.com/HHROC/traffairious)
 
