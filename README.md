@@ -16,6 +16,7 @@ New York State
  - [NYS Election Data](]http://elections.state.ny.us)
  - [NY Open Gov](http://sunlightny.com)
  - [NYS GIS Clearing House](http://gis.ny.gov/gisdata/)
+ - [Open New York](https://data.ny.gov/)
 
 City of Rochester
 -----
