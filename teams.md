@@ -27,7 +27,8 @@ RocReport
 Facilitate Direct Communication between citizens of Rochester & the civic authorities - Crowdsource Civic Issues  *Utilize the power of markdown when possible*.
  - [Source Code Android](https://github.com/rickylaishram/RocReportAndroid)
  - [Source Code](https://github.com/rickylaishram/rocreport)
- - [Demo](http://bit.ly/TO BE UPDATED)
+ - [Demo](http://bit.ly/rocreportrit)
+ - [Android App](http://bit.ly/rocreportapk)
 
 **Members**
  - [@dkd903](http://github.com/dkd903)
