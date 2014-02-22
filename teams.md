@@ -77,3 +77,23 @@ A game engine written in the [D language](http://dlang.org/).
  - [Source Code](https://github.com/Circular-Studios/Dash)
  - [Demo](https://github.com/Circular-Studios/Sample-Dash-Game)
  - [Members](https://github.com/orgs/Circular-Studios/members)
+
+CreepChat
+=============
+
+This mobile app facilitates the sharing of snapshots that people take with
+randomly selected other users. The idea is to feel a connection with an unknown
+person as they share a snapshot of their life with you. "Sharing sessions"
+could be restricted or encourages at a particular time of day in order to
+better create a sense of solidarity between total and utter strangers. Perhaps
+certain themes could be applied to any given "sharing session". Ultimately, the
+hope is that people from completely different geographical locations and/or
+demographics will be able to share in a moment of connectivity through the
+sharing of imagery.
+
+ - [Source Code](http://github.com/rochestercivicappchallenge/resources)
+ - [Demo](http://attroc.hackupstate.com)
+
+**Members**
+ - [@CarolBrass](http://github.com/CarolBrass)
+ - [@scniro](http://github.com/scniro)
