@@ -17,6 +17,6 @@ If applicable, include a link, like so: http://attroc.hackupstate.com
 Members
 -------
 
- - @decause
- - @dougiebuckets
+ @decause
+ @dougiebuckets
 
