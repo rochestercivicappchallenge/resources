@@ -17,8 +17,7 @@ Project Description. Can be short. Can be verbose. *Utilize the power of markdow
  - [Source Code](http://github.com/rochestercivicappchallenge/resources)
  - [Demo](http://attroc.hackupstate.com)
 
-Members
--------
+### Members
  - [@decause](http://github.com/decause)
  - [@dougiebuckets](http://github.com/dougiebuckets)
 
@@ -30,8 +29,7 @@ Project Description. Can be short. Can be verbose. *Utilize the power of markdow
  - [Source Code](http://github.com/rochestercivicappchallenge/resources)
  - [Demo](http://attroc.hackupstate.com)
 
-Members
--------
+### Members
  - [@decause](http://github.com/decause)
  - [@dougiebuckets](http://github.com/dougiebuckets)
 
