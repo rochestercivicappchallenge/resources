@@ -119,3 +119,15 @@ An educational game about nutrition. Devoloped with HTML5 and JavaScript.
 **Members**
 - [@Jenneh](https://github.com/Jenneh)
 - [@kyle](https://github.com/CallidusAsinus)
+
+Procedurally Generated Wilderness
+=============
+Curses-based random wilderness level generator, with some hacked in
+map editing ability. Not a civic app.
+
+ - [Source Code](http://github.com/mansam/wilderness)
+
+**Members**
+ - [@mansam](http://github.com/mansam)
+
+
