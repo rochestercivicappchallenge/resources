@@ -22,12 +22,12 @@ Project Description. Can be short. Can be verbose. *Utilize the power of markdow
  - [@dougiebuckets](http://github.com/dougiebuckets)
 ```
 
-Project Name
+RocReport
 =============
-Project Description. Can be short. Can be verbose. *Utilize the power of markdown when possible*.
+Facilitate Direct Communication between citizens of Rochester & the civic authorities - Crowdsource Civic Issues  *Utilize the power of markdown when possible*.
  - [Source Code](http://github.com/rochestercivicappchallenge/resources)
- - [Demo](http://attroc.hackupstate.com)
+ - [Demo](http://bit.ly/TO BE UPDATED)
 
 **Members**
- - [@decause](http://github.com/decause)
- - [@dougiebuckets](http://github.com/dougiebuckets)
+ - [@dkd903](http://github.com/dkd903)
+ - [@ricky_lais](http://github.com/ricky_lais)
