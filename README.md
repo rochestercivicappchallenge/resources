@@ -1,3 +1,4 @@
+![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/flyer/RCAC_flyer_final_landscape_v2.png "#ATTROC Flyer")
 ![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-badge.png "#ATTROC Badge")
 
 
