@@ -7,6 +7,7 @@ remotely, or join a team after the hackathon.
 Please use the format below to list your team
 
 
+```
 Project Name
 =============
 
@@ -20,4 +21,4 @@ Members
  - [@GitHubUsername](http://github.com/)
  - [@decause](http://github.com/decause)
  - [@dougiebuckets](http://github.com/dougiebuckets)
-
+```
