@@ -57,6 +57,16 @@ A smartphone app to help prevent the event of a car crash.
  - [Shiraz Qayyum](https://github.com/shirazqayyum)
  - [Casey DeLorme](https://github.com/cdelormme)
 
+Lanternit
+=============
+Lanternit will be a location based social network with an interactive mapping UI.
+ - [Source Code](https://github.com/amagown/Lanternit)
+ - [Demo](https://www.youtube.com/watch?v=0ULIXF4oyyw)
+
+**Members**
+ - [@decause](http://github.com/amagown)
+ - [@dougiebuckets](http://github.com/dougiebuckets)
+
 NextPlex Mobile
 =============
 We're building a dedicated mobile app on top of the existing NextPlex.com platform.
