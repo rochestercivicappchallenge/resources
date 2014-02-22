@@ -131,3 +131,13 @@ map editing ability. Not a civic app.
  - [@mansam](http://github.com/mansam)
 
 
+MondayMornings
+==============
+A conglomerate python app that brings an alarm clock, weather station, and
+webcam image capture to your fingertips at the snap of your fingers.
+
+ - [Source Code](https://github.com/ramstush/MondayMornings)
+
+**Members**
+ - [@brush](https://github.com/ramstush/)
+
