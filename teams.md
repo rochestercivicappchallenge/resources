@@ -44,6 +44,19 @@ Facilitate Direct Communication between citizens of Rochester & the civic author
  - [@ricky_lais](http://github.com/ricky_lais)
  - [@angelkanvero](http://github.com/angelkanvero)
 
+Collision-avoidance-warning
+=============================
+A smartphone app to help prevent the event of a car crash.
+ - [source code](https://github.com/cdelorme/collision-avoidance-warning)
+ - [Demo](https://github.com/cdelorme/collision-avoidance-warning)
+
+**Members**
+ - [Clark Hochgraf](https://github.com/cghiee)
+ - [Teresa Boettrich](https://github.com/yepyepyepyep)
+ - [Fernando Ellis](https://github.com/fortnight)
+ - [Shiraz Qayyum](https://github.com/shirazqayyum)
+ - [Casey DeLorme](https://github.com/cdelormme)
+
 NextPlex Mobile
 =============
 We're building a dedicated mobile app on top of the existing NextPlex.com platform.
