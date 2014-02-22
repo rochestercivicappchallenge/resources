@@ -16,6 +16,7 @@ Project Name
 Project Description. Can be short. Can be verbose. *Utilize the power of markdown when possible*.
  - [Source Code](http://github.com/rochestercivicappchallenge/resources)
  - [Demo](http://attroc.hackupstate.com)
+
 **Members**
  - [@decause](http://github.com/decause)
  - [@dougiebuckets](http://github.com/dougiebuckets)
@@ -26,6 +27,7 @@ Project Name
 Project Description. Can be short. Can be verbose. *Utilize the power of markdown when possible*.
  - [Source Code](http://github.com/rochestercivicappchallenge/resources)
  - [Demo](http://attroc.hackupstate.com)
+
 **Members**
  - [@decause](http://github.com/decause)
  - [@dougiebuckets](http://github.com/dougiebuckets)
