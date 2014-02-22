@@ -60,3 +60,13 @@ NextPlex Mobile will focus on events, allowing potential collaborators to commun
  - [@lail](http://github.com/lail)
  - [@nathos](http://github.com/nathos)
  - [@KyleMacey](http://github.com/KyleMacey)
+
+City Watch
+=============
+Creates a heatmap of crime throughout monroe county
+ - [Source Code](https://github.com/nokeeo/2014RocCivicAppChallange)
+ - [Demo](civicapp.gearchicken.com)
+
+**Members**
+ - [@nokeeo](http://github.com/nokeeo)
+ - [@liam-middlebrook](http://github.com/liam-middlebrook)
