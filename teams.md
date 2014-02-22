@@ -96,3 +96,14 @@ sharing of imagery.
 **Members**
  - [@CarolBrass](http://github.com/CarolBrass)
  - [@scniro](http://github.com/scniro)
+
+pmcht! (Lip Smack)
+=============
+An educational game about nutrition. Devoloped with HTML5 and JavaScript.
+
+ - [Source Code]https://github.com/Jenneh/pmcht
+ - [Demo](https://docs.google.com/presentation/d/1IqwmX1SWWmqPzBhu35yt6Gdx7QnOfCXm4wYUB8Q8u94/edit?usp=sharing)
+
+**Members**
+- [@Jenneh](https://github.com/Jenneh)
+- [@kyle](https://github.com/CallidusAsinus)
