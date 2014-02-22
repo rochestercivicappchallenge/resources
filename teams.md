@@ -10,7 +10,8 @@ Please use the format below to list your team
 Project Name
 =============
 
-Project Description. Can be short. Can be verbose. *be sure to use markdown*
+Project Description. Can be short. Can be verbose. *Utilize the power of markdown when possible*.
+
 If applicable, include a link, like so: http://attroc.hackupstate.com
 
 Members
