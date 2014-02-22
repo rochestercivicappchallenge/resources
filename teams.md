@@ -103,8 +103,8 @@ hope is that people from completely different geographical locations and/or
 demographics will be able to share in a moment of connectivity through the
 sharing of imagery.
 
- - [Source Code](http://github.com/rochestercivicappchallenge/resources)
- - [Demo](http://attroc.hackupstate.com)
+ - [Source Code](https://github.com/scniro/SharePackage.Objects)
+ - [Demo](http://attrocweb.azurewebsites.net/#/)
 
 **Members**
  - [@CarolBrass](http://github.com/CarolBrass)
