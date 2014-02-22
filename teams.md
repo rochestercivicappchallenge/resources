@@ -25,7 +25,8 @@ Project Description. Can be short. Can be verbose. *Utilize the power of markdow
 RocReport
 =============
 Facilitate Direct Communication between citizens of Rochester & the civic authorities - Crowdsource Civic Issues  *Utilize the power of markdown when possible*.
- - [Source Code](http://github.com/rochestercivicappchallenge/resources)
+ - [Source Code Android](https://github.com/rickylaishram/RocReportAndroid)
+ - [Source Code](https://github.com/rickylaishram/rocreport)
  - [Demo](http://bit.ly/TO BE UPDATED)
 
 **Members**
