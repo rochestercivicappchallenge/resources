@@ -80,7 +80,6 @@ A game engine written in the [D language](http://dlang.org/).
 
 CreepChat
 =============
-
 This mobile app facilitates the sharing of snapshots that people take with
 randomly selected other users. The idea is to feel a connection with an unknown
 person as they share a snapshot of their life with you. "Sharing sessions"
