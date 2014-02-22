@@ -1,6 +1,16 @@
+Hello World!
+============
 ![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/flyer/RCAC_flyer_final_landscape_v2.png "#ATTROC Flyer")
-![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-badge.png "#ATTROC Badge")
 
+About
+-----
+This repository contains information and resources that relate to the Rochester
+Civic App Challenge. Here you will find lists of teams and projects, suggested
+datasets, artwork and promotional materials, and other miscellanea.
+
+
+Featured Datasets
+=================
 
 
 The Sunlight Foundation
@@ -71,3 +81,7 @@ Random
       - {0},{1},{2} - Start Year, Month, Day
       - {3},{4},{5} - end Day, Month, Year
       - Note: only returns 11 months of data
+
+Badge Artwork
+=============
+![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-badge.png "#ATTROC Badge")
