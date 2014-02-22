@@ -1,3 +1,7 @@
+![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/attroc-badge.png "#ATTROC Badge")
+
+
+
 The Sunlight Foundation
 ------------------
  - <a href="http://docs.opencivicdata.org/en/latest/api/index.html">Open Civic Data API</a>
