@@ -43,3 +43,13 @@ Facilitate Direct Communication between citizens of Rochester & the civic author
  - [@dkd903](http://github.com/dkd903)
  - [@ricky_lais](http://github.com/ricky_lais)
  - [@angelkanvero](http://github.com/angelkanvero)
+
+City Watch
+=============
+Creates a heatmap of crime throughout monroe county
+ - [Source Code](https://github.com/nokeeo/2014RocCivicAppChallange)
+ - [Demo](civicapp.gearchicken.com)
+
+**Members**
+ - [@nokeeo](http://github.com/nokeeo)
+ - [@liam-middlebrook](http://github.com/liam-middlebrook)
