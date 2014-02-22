@@ -43,3 +43,20 @@ Facilitate Direct Communication between citizens of Rochester & the civic author
  - [@dkd903](http://github.com/dkd903)
  - [@ricky_lais](http://github.com/ricky_lais)
  - [@angelkanvero](http://github.com/angelkanvero)
+
+NextPlex Mobile
+=============
+We're building a dedicated mobile app on top of the existing NextPlex.com platform.
+
+NextPlex was born in Rochester, to unite developers and creatives at events just like this one, to come together and build the future in cities big and small.
+
+We believe that any city can be a hub of innovation, creativity and high-technology. Innovators are everywhere, we just need to find each other. Human ingenuity is unlimited and the places where we invent together can be too.
+
+NextPlex Mobile will focus on events, allowing potential collaborators to communicate back-channel, share opinions, research potential collaborators, meetup and plan projects.
+
+ - [Source Code](http://github.com/nextplex)
+
+**Members**
+ - [@lail](http://github.com/lail)
+ - [@nathos](http://github.com/nathos)
+ - [@KyleMacey](http://github.com/KyleMacey)
