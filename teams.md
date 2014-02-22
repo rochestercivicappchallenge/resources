@@ -17,6 +17,7 @@ If applicable, include a link, like so: http://attroc.hackupstate.com
 Members
 -------
 
- @decause
- @dougiebuckets
+ - [@GitHubUsername](http://github.com/)
+ - [@decause](http://github.com/decause)
+ - [@dougiebuckets](http://github.com/dougiebuckets)
 
