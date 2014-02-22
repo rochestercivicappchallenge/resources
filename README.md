@@ -1,4 +1,4 @@
-![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/attroc-badge.png "#ATTROC Badge")
+![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-badge.png "#ATTROC Badge")
 
 
 
