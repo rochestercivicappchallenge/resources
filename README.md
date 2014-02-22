@@ -2,6 +2,11 @@ The Sunlight Foundation
 ------------------
  - <a href="http://docs.opencivicdata.org/en/latest/api/index.html">Open Civic Data API</a>
  - Many more at http://sunlightfoundation.com/api/
+ - Libraries
+  - [Sunlight Ruby Gem](https://github.com/sunlightlabs/ruby-sunlight)
+  - [Sunlight PHP Wrapper](https://github.com/lobostome/FurryBear)
+  - [Sunlight Node.js Wrapper](https://github.com/ameensol/node-openstates)
+  - [python-sunlight](http://python-sunlight.readthedocs.org/en/latest/)
 
 Federal
 -------
@@ -16,11 +21,12 @@ New York State
  - [NYS Election Data](]http://elections.state.ny.us)
  - [NY Open Gov](http://sunlightny.com)
  - [NYS GIS Clearing House](http://gis.ny.gov/gisdata/)
+ - [Open New York](https://data.ny.gov/)
 
 City of Rochester
 -----
  - [City of Rochester Neighborhood Data Map](http://www.cityofrochester.gov/neighborhooddatamap/)
-   - [RHoK The Hood](https://rhokthehood.com)
+    - [RHoK The Hood](https://rhokthehood.com)
  - [ACT Rochester](http://www.actrochester.org/)
 
 Onondaga County
