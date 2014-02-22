@@ -28,6 +28,7 @@ Federal
  - http://data.gov
  - http://nces.ed.gov/ipeds/datacenter/Default.aspx
  - http://www.census.gov/censusexplorer/censusexplorer.html
+ - [Open Congress](http://www.opencongress.org/api)
 
 New York State
 --------------
