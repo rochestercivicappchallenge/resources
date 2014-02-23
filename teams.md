@@ -41,7 +41,7 @@ Facilitate Direct Communication between citizens of Rochester & the civic author
 
 **Members**
  - [@dkd903](http://github.com/dkd903)
- - [@ricky_lais](http://github.com/rickylaishram)
+ - [@rickylaishram](http://github.com/rickylaishram)
  - [@angelkanvero](http://github.com/angelkanvero)
 
 Collision-avoidance-warning
