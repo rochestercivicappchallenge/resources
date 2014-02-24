@@ -138,9 +138,8 @@ webcam image capture to your fingertips at the snap of your fingers.
  - [@brush](https://github.com/ramstush/)
 
 
-Educational Game Development
-(non-civic participants)
-=====================================================
+Non-civic Educational Game Development
+======================================
 
 Dash
 ----
