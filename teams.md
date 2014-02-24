@@ -40,7 +40,7 @@ authorities - Crowdsource Civic Issues
 <h2><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-silver-display.png" /> City Watch</h2>
 Creates a heatmap of crime throughout monroe county
  - [Source Code](https://github.com/nokeeo/2014RocCivicAppChallange)
- - [Demo](civicapp.gearchicken.com)
+ - [Demo](http://civicapp.gearchicken.com/)
 
 **Members**
  - [@nokeeo](http://github.com/nokeeo)
