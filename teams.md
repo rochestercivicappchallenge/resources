@@ -31,8 +31,8 @@ WideEyes is an experimental AI that uses LUA to control gameboy color games.  Ra
 **Members**
  - [@danshumway](http://github.com/danshumway)
 
+<img style="float:left" src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" />
 RocReport
-![#ATTROC](https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png "#ATTROC Gold Badge")
 =============
 Facilitate Direct Communication between citizens of Rochester & the civic authorities - Crowdsource Civic Issues  *Utilize the power of markdown when possible*.
  - [Source Code Android](https://github.com/rickylaishram/RocReportAndroid)
