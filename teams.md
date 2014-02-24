@@ -13,7 +13,8 @@ Please use the format below to list your team, like so:
 ```
 Project Name
 =============
-Project Description. Can be short. Can be verbose. *Utilize the power of markdown when possible*.
+Project Description. Can be short. Can be verbose. *Utilize the power of
+markdown when possible*.
  - [Source Code](http://github.com/rochestercivicappchallenge/resources)
  - [Demo](http://attroc.hackupstate.com)
 
@@ -22,19 +23,10 @@ Project Description. Can be short. Can be verbose. *Utilize the power of markdow
  - [@dougiebuckets](http://github.com/dougiebuckets)
 ```
 
-WideEyes
-=============
-WideEyes is an experimental AI that uses LUA to control gameboy color games.  Rather than attempt to complete the game, WideEyes focuses on exploration - he tries to make as much *stuff* happen as he can.
- - [Source Code](https://github.com/danShumway/WideEyes)
- - [Demo](https://github.com/danShumway/WideEyes)
-
-**Members**
- - [@danshumway](http://github.com/danshumway)
-
-
 <h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" /> RocReport</h1>
 
-Facilitate Direct Communication between citizens of Rochester & the civic authorities - Crowdsource Civic Issues 
+Facilitate Direct Communication between citizens of Rochester & the civic
+authorities - Crowdsource Civic Issues 
  - [Source Code Android](https://github.com/rickylaishram/RocReportAndroid)
  - [Source Code](https://github.com/rickylaishram/rocreport)
  - [Demo](http://bit.ly/rocreportrit)
@@ -45,8 +37,17 @@ Facilitate Direct Communication between citizens of Rochester & the civic author
  - [@rickylaishram](http://github.com/rickylaishram)
  - [@angelkanvero](http://github.com/angelkanvero)
 
-Collision-avoidance-warning
-=============================
+<h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-silver-display.png" /> City Watch</h1>
+Creates a heatmap of crime throughout monroe county
+ - [Source Code](https://github.com/nokeeo/2014RocCivicAppChallange)
+ - [Demo](civicapp.gearchicken.com)
+
+**Members**
+ - [@nokeeo](http://github.com/nokeeo)
+ - [@liam-middlebrook](http://github.com/liam-middlebrook)
+
+
+<h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-bronze-display.png" /> Collision-avoidance-warning</h1>
 A smartphone app to help prevent the event of a car crash.
  - [source code](https://github.com/cdelorme/collision-avoidance-warning)
  - [Demo](https://github.com/cdelorme/collision-avoidance-warning)
@@ -58,25 +59,22 @@ A smartphone app to help prevent the event of a car crash.
  - [Shiraz Qayyum](https://github.com/shirazqayyum)
  - [Casey DeLorme](https://github.com/cdelormme)
 
-Lanternit
-=============
-Lanternit will be a location based social network with an interactive mapping UI.
- - [Source Code](https://github.com/amagown/Lanternit)
- - [Demo](https://www.youtube.com/watch?v=0ULIXF4oyyw)
+<h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" /> NextPlex Mobile</h1>
+We're building a dedicated mobile app on top of the existing NextPlex.com
+platform.
 
-**Members**
- - [@decause](http://github.com/amagown)
- - [@dougiebuckets](http://github.com/dougiebuckets)
+NextPlex was born in Rochester, to unite developers and creatives at events
+just like this one, to come together and build the future in cities big and
+small.
 
-NextPlex Mobile
-=============
-We're building a dedicated mobile app on top of the existing NextPlex.com platform.
+We believe that any city can be a hub of innovation, creativity and
+high-technology. Innovators are everywhere, we just need to find each other.
+Human ingenuity is unlimited and the places where we invent together can be
+too.
 
-NextPlex was born in Rochester, to unite developers and creatives at events just like this one, to come together and build the future in cities big and small.
-
-We believe that any city can be a hub of innovation, creativity and high-technology. Innovators are everywhere, we just need to find each other. Human ingenuity is unlimited and the places where we invent together can be too.
-
-NextPlex Mobile will focus on events, allowing potential collaborators to communicate back-channel, share opinions, research potential collaborators, meetup and plan projects.
+NextPlex Mobile will focus on events, allowing potential collaborators to
+communicate back-channel, share opinions, research potential collaborators,
+meetup and plan projects.
 
  - [Source Code](http://github.com/nextplex)
 
@@ -85,15 +83,29 @@ NextPlex Mobile will focus on events, allowing potential collaborators to commun
  - [@nathos](http://github.com/nathos)
  - [@KyleMacey](http://github.com/KyleMacey)
 
-City Watch
-=============
-Creates a heatmap of crime throughout monroe county
- - [Source Code](https://github.com/nokeeo/2014RocCivicAppChallange)
- - [Demo](civicapp.gearchicken.com)
+pmcht! (Lip Smack)
+==================
+An educational game about nutrition. Devoloped with HTML5 and JavaScript.
+ - [Source Code]https://github.com/Jenneh/pmcht
+ - [Demo](https://docs.google.com/presentation/d/1IqwmX1SWWmqPzBhu35yt6Gdx7QnOfCXm4wYUB8Q8u94/edit?usp=sharing)
 
 **Members**
- - [@nokeeo](http://github.com/nokeeo)
- - [@liam-middlebrook](http://github.com/liam-middlebrook)
+- [@Jenneh](https://github.com/Jenneh)
+- [@kyle](https://github.com/CallidusAsinus)
+
+Lanternit
+=========
+Lanternit will be a location based social network with an interactive mapping
+UI.
+ - [Source Code](https://github.com/amagown/Lanternit)
+ - [Demo](https://www.youtube.com/watch?v=0ULIXF4oyyw)
+
+**Members**
+ - [@decause](http://github.com/amagown)
+ - [@dougiebuckets](http://github.com/dougiebuckets)
+
+
+
 
 Dash
 ====
@@ -103,7 +115,7 @@ A game engine written in the [D language](http://dlang.org/).
  - [Members](https://github.com/orgs/Circular-Studios/members)
 
 CreepChat
-=============
+=========
 This mobile app facilitates the sharing of snapshots that people take with
 randomly selected other users. The idea is to feel a connection with an unknown
 person as they share a snapshot of their life with you. "Sharing sessions"
@@ -121,26 +133,6 @@ sharing of imagery.
  - [@CarolBrass](http://github.com/CarolBrass)
  - [@scniro](http://github.com/scniro)
 
-pmcht! (Lip Smack)
-=============
-An educational game about nutrition. Devoloped with HTML5 and JavaScript.
- - [Source Code]https://github.com/Jenneh/pmcht
- - [Demo](https://docs.google.com/presentation/d/1IqwmX1SWWmqPzBhu35yt6Gdx7QnOfCXm4wYUB8Q8u94/edit?usp=sharing)
-
-**Members**
-- [@Jenneh](https://github.com/Jenneh)
-- [@kyle](https://github.com/CallidusAsinus)
-
-Procedurally Generated Wilderness
-=============
-Curses-based random wilderness level generator, with some hacked in
-map editing ability. Not a civic app.
-
- - [Source Code](http://github.com/mansam/wilderness)
-
-**Members**
- - [@mansam](http://github.com/mansam)
-
 
 MondayMornings
 ==============
@@ -152,3 +144,23 @@ webcam image capture to your fingertips at the snap of your fingers.
 **Members**
  - [@brush](https://github.com/ramstush/)
 
+WideEyes
+========
+WideEyes is an experimental AI that uses LUA to control gameboy color games.
+Rather than attempt to complete the game, WideEyes focuses on exploration - he
+tries to make as much *stuff* happen as he can.
+ - [Source Code](https://github.com/danShumway/WideEyes)
+ - [Demo](https://github.com/danShumway/WideEyes)
+
+**Members**
+ - [@danshumway](http://github.com/danshumway)
+
+Procedurally Generated Wilderness
+=================================
+Curses-based random wilderness level generator, with some hacked in
+map editing ability. Not a civic app.
+
+ - [Source Code](http://github.com/mansam/wilderness)
+
+**Members**
+ - [@mansam](http://github.com/mansam)
