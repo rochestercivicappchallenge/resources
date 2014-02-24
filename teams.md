@@ -84,6 +84,9 @@ meetup and plan projects.
  - [@nathos](http://github.com/nathos)
  - [@KyleMacey](http://github.com/KyleMacey)
 
+Honorable Mention
+=================
+
 pmcht! (Lip Smack)
 ------------------
 An educational game about nutrition. Devoloped with HTML5 and JavaScript.
