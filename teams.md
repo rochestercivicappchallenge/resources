@@ -105,15 +105,8 @@ UI.
  - [Demo](https://www.youtube.com/watch?v=0ULIXF4oyyw)
 
 **Members**
- - [@decause](http://github.com/amagown)
- - [@dougiebuckets](http://github.com/dougiebuckets)
+ - [@amagown](http://github.com/amagown)
 
-Dash
-----
-A game engine written in the [D language](http://dlang.org/).
- - [Source Code](https://github.com/Circular-Studios/Dash)
- - [Demo](https://github.com/Circular-Studios/Sample-Dash-Game)
- - [Members](https://github.com/orgs/Circular-Studios/members)
 
 CreepChat
 ---------
@@ -134,7 +127,6 @@ sharing of imagery.
  - [@CarolBrass](http://github.com/CarolBrass)
  - [@scniro](http://github.com/scniro)
 
-
 MondayMornings
 --------------
 A conglomerate python app that brings an alarm clock, weather station, and
@@ -144,6 +136,18 @@ webcam image capture to your fingertips at the snap of your fingers.
 
 **Members**
  - [@brush](https://github.com/ramstush/)
+
+
+Educational Game Development (non-civic participants)
+=====================================================
+
+Dash
+----
+A game engine written in the [D language](http://dlang.org/).
+ - [Source Code](https://github.com/Circular-Studios/Dash)
+ - [Demo](https://github.com/Circular-Studios/Sample-Dash-Game)
+ - [Members](https://github.com/orgs/Circular-Studios/members)
+
 
 WideEyes
 --------
