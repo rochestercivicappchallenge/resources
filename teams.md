@@ -1,6 +1,5 @@
 Hackathon Teams
----------------
-
+===============
 This page is here to serve as a resource for those who want to participate
 remotely, or join a team after the hackathon.
 
@@ -9,10 +8,9 @@ demo time!
 
 Please use the format below to list your team, like so:
 
-
 ```
 Project Name
-=============
+------------
 Project Description. Can be short. Can be verbose. *Utilize the power of
 markdown when possible*.
  - [Source Code](http://github.com/rochestercivicappchallenge/resources)
@@ -23,7 +21,9 @@ markdown when possible*.
  - [@dougiebuckets](http://github.com/dougiebuckets)
 ```
 
-<h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" /> RocReport</h1>
+<h1>New Apps</h1>
+
+<h2><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" /> RocReport</h2>
 
 Facilitate Direct Communication between citizens of Rochester & the civic
 authorities - Crowdsource Civic Issues 
@@ -37,7 +37,7 @@ authorities - Crowdsource Civic Issues
  - [@rickylaishram](http://github.com/rickylaishram)
  - [@angelkanvero](http://github.com/angelkanvero)
 
-<h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-silver-display.png" /> City Watch</h1>
+<h2><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-silver-display.png" /> City Watch</h2>
 Creates a heatmap of crime throughout monroe county
  - [Source Code](https://github.com/nokeeo/2014RocCivicAppChallange)
  - [Demo](civicapp.gearchicken.com)
@@ -47,7 +47,7 @@ Creates a heatmap of crime throughout monroe county
  - [@liam-middlebrook](http://github.com/liam-middlebrook)
 
 
-<h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-bronze-display.png" /> Collision-avoidance-warning</h1>
+<h2><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-bronze-display.png" /> Collision-avoidance-warning</h2>
 A smartphone app to help prevent the event of a car crash.
  - [source code](https://github.com/cdelorme/collision-avoidance-warning)
  - [Demo](https://github.com/cdelorme/collision-avoidance-warning)
@@ -59,7 +59,8 @@ A smartphone app to help prevent the event of a car crash.
  - [Shiraz Qayyum](https://github.com/shirazqayyum)
  - [Casey DeLorme](https://github.com/cdelormme)
 
-<h1><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" /> NextPlex Mobile</h1>
+<h1>Existing Apps</h1>
+<h2><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" /> NextPlex Mobile</h2>
 We're building a dedicated mobile app on top of the existing NextPlex.com
 platform.
 
@@ -84,7 +85,7 @@ meetup and plan projects.
  - [@KyleMacey](http://github.com/KyleMacey)
 
 pmcht! (Lip Smack)
-==================
+------------------
 An educational game about nutrition. Devoloped with HTML5 and JavaScript.
  - [Source Code]https://github.com/Jenneh/pmcht
  - [Demo](https://docs.google.com/presentation/d/1IqwmX1SWWmqPzBhu35yt6Gdx7QnOfCXm4wYUB8Q8u94/edit?usp=sharing)
@@ -94,7 +95,7 @@ An educational game about nutrition. Devoloped with HTML5 and JavaScript.
 - [@kyle](https://github.com/CallidusAsinus)
 
 Lanternit
-=========
+---------
 Lanternit will be a location based social network with an interactive mapping
 UI.
  - [Source Code](https://github.com/amagown/Lanternit)
@@ -104,18 +105,15 @@ UI.
  - [@decause](http://github.com/amagown)
  - [@dougiebuckets](http://github.com/dougiebuckets)
 
-
-
-
 Dash
-====
+----
 A game engine written in the [D language](http://dlang.org/).
  - [Source Code](https://github.com/Circular-Studios/Dash)
  - [Demo](https://github.com/Circular-Studios/Sample-Dash-Game)
  - [Members](https://github.com/orgs/Circular-Studios/members)
 
 CreepChat
-=========
+---------
 This mobile app facilitates the sharing of snapshots that people take with
 randomly selected other users. The idea is to feel a connection with an unknown
 person as they share a snapshot of their life with you. "Sharing sessions"
@@ -135,7 +133,7 @@ sharing of imagery.
 
 
 MondayMornings
-==============
+--------------
 A conglomerate python app that brings an alarm clock, weather station, and
 webcam image capture to your fingertips at the snap of your fingers.
 
@@ -145,7 +143,7 @@ webcam image capture to your fingertips at the snap of your fingers.
  - [@brush](https://github.com/ramstush/)
 
 WideEyes
-========
+--------
 WideEyes is an experimental AI that uses LUA to control gameboy color games.
 Rather than attempt to complete the game, WideEyes focuses on exploration - he
 tries to make as much *stuff* happen as he can.
@@ -156,7 +154,7 @@ tries to make as much *stuff* happen as he can.
  - [@danshumway](http://github.com/danshumway)
 
 Procedurally Generated Wilderness
-=================================
+---------------------------------
 Curses-based random wilderness level generator, with some hacked in
 map editing ability. Not a civic app.
 
