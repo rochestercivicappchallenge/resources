@@ -90,7 +90,7 @@ Honorable Mention
 pmcht! (Lip Smack)
 ------------------
 An educational game about nutrition. Devoloped with HTML5 and JavaScript.
- - [Source Code]https://github.com/Jenneh/pmcht
+ - [Source Code](https://github.com/Jenneh/pmcht)
  - [Demo](https://docs.google.com/presentation/d/1IqwmX1SWWmqPzBhu35yt6Gdx7QnOfCXm4wYUB8Q8u94/edit?usp=sharing)
 
 **Members**
@@ -138,7 +138,8 @@ webcam image capture to your fingertips at the snap of your fingers.
  - [@brush](https://github.com/ramstush/)
 
 
-Educational Game Development (non-civic participants)
+Educational Game Development
+(non-civic participants)
 =====================================================
 
 Dash
