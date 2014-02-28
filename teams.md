@@ -105,7 +105,7 @@ its system somewhat to join the team.
 
  - [Source Code](https://github.com/drpolar/busme-rochester)
 
-** Members **
+**Members**
  - [@drpolar](https://github.com/drpolar)
 
 Honorable Mention
