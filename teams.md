@@ -84,11 +84,11 @@ meetup and plan projects.
  - [@nathos](http://github.com/nathos)
  - [@KyleMacey](http://github.com/KyleMacey)
 
-<img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-silver-display.png" />Busme! Rochester
+Busme! Rochester
 ----------------
 Building Busme! Rochester based on Busme!'s system.  See more about Busme! [http://busme.us](http://busme.us).
 
-We need use Busme!'s tools to create a Busme! Plan file for a couple Rochester Bus lines. A Busme!
+We use Busme!'s tools to create a Busme! Plan file for a couple Rochester Bus lines. A Busme!
 Plan File is a zip file containing bunch of CSV and KML files. These files represent the paths,
 routes, and schedules of bus lines.
 
