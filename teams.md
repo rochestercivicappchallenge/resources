@@ -59,6 +59,14 @@ A smartphone app to help prevent the event of a car crash.
  - [Shiraz Qayyum](https://github.com/shirazqayyum)
  - [Casey DeLorme](https://github.com/cdelormme)
 
+<h2>Public Market App</h2>
+An app the opens communication between Public Market Vendors and the Rochester Community.
+ - [Demo](66.66.103.33)
+
+**Members**
+ - [@makersauce](http://github.com/makersauce)(mewing6732@gmail.com)
+ - jeremiah
+
 <h1>Existing Apps</h1>
 <h2><img src="https://raw2.github.com/rochestercivicappchallenge/resources/master/badges/attroc-gold-display.png" /> NextPlex Mobile</h2>
 We're building a dedicated mobile app on top of the existing NextPlex.com
