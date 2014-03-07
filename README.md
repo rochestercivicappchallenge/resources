@@ -27,6 +27,7 @@ Federal
  - http://nces.ed.gov/ipeds/datacenter/Default.aspx
  - http://www.census.gov/censusexplorer/censusexplorer.html
  - [Open Congress](http://www.opencongress.org/api)
+ - [Economic Inclusion](http://www.economicinclusion.gov/)
 
 New York State
 --------------
@@ -36,6 +37,7 @@ New York State
  - [NY Open Gov](http://sunlightny.com)
  - [NYS GIS Clearing House](http://gis.ny.gov/gisdata/)
  - [Open New York](https://data.ny.gov/)
+ - [Economic Inclusion for NYS](http://www.economicinclusion.gov/surveys/place-data.html?where=New_York&when=2011)
 
 City of Rochester
 -----
