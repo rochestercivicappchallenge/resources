@@ -38,6 +38,8 @@ New York State
  - [NYS GIS Clearing House](http://gis.ny.gov/gisdata/)
  - [Open New York](https://data.ny.gov/)
  - [Economic Inclusion for NYS](http://www.economicinclusion.gov/surveys/place-data.html?where=New_York&when=2011)
+ - [NYS Parole Board](https://www.parole.ny.gov/)
+ - [NYS Parole Board Data Set](http://attroc.hackupstate.com/assets/resources/nys_parole_board.xls)
 
 City of Rochester
 -----
