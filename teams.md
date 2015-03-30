@@ -28,9 +28,10 @@ markdown when possible*.
 Facilitate Direct Communication between citizens of Rochester & the civic
 authorities - Crowdsource Civic Issues 
  - [Source Code Android](https://github.com/rickylaishram/RocReportAndroid)
- - [Source Code](https://github.com/rickylaishram/rocreport)
- - [Demo](http://bit.ly/rocreportrit)
- - [Android App](http://bit.ly/rocreportapk)
+ - [Source Code](https://github.com/rickylaishram/RocReport-Server)
+ - [Twitter Integration](https://github.com/rickylaishram/RocReport-Twitter)
+ - [Demo](http://54.213.151.222/v1/)
+ - [Android App](http://54.213.151.222/v1/RocReport-1.0.apk)
 
 **Members**
  - [@dkd903](http://github.com/dkd903)
